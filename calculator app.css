@@ -1,0 +1,217 @@
+body {
+    max-height: 100%;
+    max-width: 100%;
+   background-color: rgba(0, 0, 0, 0.342);
+  }
+
+  .numbers {
+    height: 300px;
+    width: 150px;
+   border: 50px solid rgb(1, 10, 1);
+    padding: 50px;
+    margin: 30px;
+    border-right-color: blue;
+    border-left-color: coral;
+    border-top-color: darkgreen;
+    position: relative;
+    left: 450px;
+  }
+
+  #one {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#two {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#three {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#four {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#five {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#six {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#seven {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    top: -44px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#eight {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    top: -44px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#nine {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    top: -44px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#zero {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    left: 47px;
+
+}
+
+#add {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+#subtract {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    top: 44px;
+
+}
+
+#multiply {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    right: 44px;
+
+}
+
+#divide {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    left: 88px;
+
+}
+
+#equals {
+    height: 40px;
+    width: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    bottom: 24px;
+    
+
+}
+
+#heading {
+    position: top;
+    text-align: center;
+}
